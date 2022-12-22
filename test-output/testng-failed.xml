@@ -5,7 +5,7 @@
     <classes>
       <class name="cucumbertest.BuggyCarsAPI">
         <methods>
-          <include name="test2"/>
+          <include name="voteForCar"/>
         </methods>
       </class> <!-- cucumbertest.BuggyCarsAPI -->
     </classes>
