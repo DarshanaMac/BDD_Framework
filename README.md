@@ -1,5 +1,13 @@
 # BDD_Framework Execution Guide
 
+Prerequisite
+1. Install Java 8 or higher
+2. Install eclipse
+3. Install Testng in eclipse
+4. Install maven
+
+
+
 **1. Get clone URL from git**
 ![image](https://user-images.githubusercontent.com/14839226/209308016-0d342ce0-eb35-4c68-a491-0fddc382bd65.png)
 
